@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1178" height="31" viewBox="0 0 1178 31">
+    <g id="Group_19707" data-name="Group 19707" transform="translate(-262 -697)">
+        <path id="Rectangle_247" fill="#2b343e" d="M0 0H1178V31H0z" data-name="Rectangle 247" transform="translate(262 697)"/>
+        <path id="Union_6" fill="#8baed5" d="M-15517-1118l15 15.5-15 15.5zm-101 31v-31h101v31z" data-name="Union 6" transform="translate(15879.998 1815)"/>
+        <text id="NORMAL" fill="#2b343e" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="14px" font-weight="600" transform="translate(288 718.228)">
+            <tspan x="0" y="0">NORMAL</tspan>
+        </text>
+        <text id="server.js" fill="#8baed5" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="14px" font-weight="600" transform="translate(391 716.228)">
+            <tspan x="0" y="0">server.js</tspan>
+        </text>
+    </g>
+</svg>

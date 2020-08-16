@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="264" viewBox="0 0 596 264">
+    <defs>
+        <style>
+            .cls-3{fill:#fff;opacity:.6}.cls-6{fill:#ee78c5}.cls-7{fill:#70ef78}.cls-8{fill:#ecfa50}.cls-9{fill:#ffb55c}.cls-10{fill:#c68eff}
+        </style>
+    </defs>
+    <g id="Group_19997" data-name="Group 19997" transform="translate(-16194 -11525)">
+        <path id="Rectangle_2536" fill="#505669" d="M0 0h596v214a12 12 0 0 1-12 12H12a12 12 0 0 1-12-12V0z" data-name="Rectangle 2536" transform="translate(16194 11563)"/>
+        <g id="Group_19736" data-name="Group 19736" transform="translate(15392 10522)">
+            <path id="Path_27556" fill="#3d4255" d="M14.962 0h566.076C589.3 0 596 5.373 596 12v26H0V12C0 5.373 6.7 0 14.962 0z" data-name="Path 27556" transform="translate(802 1003)"/>
+            <circle id="Ellipse_1134" cx="6" cy="6" r="6" class="cls-3" data-name="Ellipse 1134" transform="translate(827 1016)"/>
+            <circle id="Ellipse_1135" cx="6" cy="6" r="6" class="cls-3" data-name="Ellipse 1135" transform="translate(849 1016)"/>
+            <circle id="Ellipse_1133" cx="6" cy="6" r="6" class="cls-3" data-name="Ellipse 1133" transform="translate(871 1016)"/>
+            <text id="_Documents_ActyvExperience_AnalyticsEngine.actyv" fill="#fff" data-name="~/Documents/ActyvExperience/AnalyticsEngine.actyv" font-family="NunitoSans-Regular, Nunito Sans" font-size="12px" letter-spacing="0.01em" transform="translate(901 1025)">
+                <tspan x="0" y="0">~/Documents/ActyvExperience/AnalyticsEngine.actyv</tspan>
+            </text>
+        </g>
+        <text id="sc_x_StandardScaler_x_train_scaled_pd.DataFrame_sc_x.fit_transform_x_train_classifier_LogisticRegression_random_state_0_penalty_l2_classifier.fit_x_train_scaled_y_train_grid_GridSearchCV_SVC_param_grid_refit_True_verbose_4" fill="#fff" data-name="sc_x = StandardScaler() x_train_scaled = pd.DataFrame(sc_x.fit_transform(x_train))classifier = LogisticRegression(random_state = 0, penalty = ‘l2’) classifier.fit(x_train_scaled, y_train)grid = GridSearchCV(SVC(), param_grid, refit = True, verbose = 4" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="12px" font-weight="600" letter-spacing="0.08em" transform="translate(16241 11595)">
+            <tspan x="0" y="0">sc_x</tspan><tspan y="0" class="cls-6"> = </tspan><tspan y="0" class="cls-7">StandardScaler</tspan><tspan y="0" class="cls-8">()</tspan><tspan x="0" y="18">x_train_scaled</tspan><tspan y="18" class="cls-6"> = </tspan><tspan y="18">pd.</tspan><tspan y="18" class="cls-7">DataFrame</tspan><tspan y="18" class="cls-8">(</tspan><tspan y="18">sc_x.</tspan><tspan y="18" class="cls-7">fit_transform</tspan><tspan y="18" class="cls-6">(</tspan><tspan y="18">x_train</tspan><tspan y="18" class="cls-6">)</tspan><tspan y="18" class="cls-8">)</tspan><tspan class="cls-6"/>
+<tspan x="0" y="54">classifier</tspan><tspan y="54" class="cls-6"> = </tspan><tspan y="54" class="cls-7">LogisticRegression</tspan><tspan y="54" class="cls-8">(</tspan><tspan y="54" class="cls-9">random_state</tspan><tspan y="54" class="cls-6"> = </tspan><tspan y="54" class="cls-10">0</tspan><tspan y="54" class="cls-6">, </tspan><tspan y="54" class="cls-9">penalty</tspan><tspan y="54" class="cls-6"> = </tspan><tspan y="54">‘l2’</tspan><tspan y="54" class="cls-8">)</tspan><tspan x="0" y="72">classifier.</tspan><tspan y="72" class="cls-6">fit</tspan><tspan y="72" class="cls-8">(</tspan><tspan y="72">x_train_scaled, y_train</tspan><tspan y="72" class="cls-8">)</tspan><tspan class="cls-6"/>
+<tspan x="0" y="108">grid</tspan><tspan y="108" class="cls-6"> = </tspan><tspan y="108" class="cls-7">GridSearchCV</tspan><tspan y="108" class="cls-8">(</tspan><tspan y="108" class="cls-7">SVC</tspan><tspan y="108" class="cls-10">()</tspan><tspan y="108">,</tspan><tspan y="108" class="cls-6"> </tspan><tspan y="108">param_grid,</tspan><tspan y="108" class="cls-6"> </tspan><tspan y="108" class="cls-9">refit</tspan><tspan y="108" class="cls-6"> = </tspan><tspan y="108" class="cls-10">True</tspan><tspan y="108">,</tspan><tspan y="108" class="cls-6"> </tspan><tspan y="108" class="cls-9">verbose</tspan><tspan y="108" class="cls-6"> = </tspan><tspan y="108" class="cls-10">4</tspan><tspan y="108" class="cls-8">)</tspan><tspan x="0" y="126">grid.</tspan><tspan y="126" class="cls-6">fit</tspan><tspan y="126" class="cls-8">(</tspan><tspan y="126">x_train_scaled, y_train</tspan><tspan y="126" class="cls-8">)</tspan><tspan x="0" y="144">grid_pred</tspan><tspan y="144" class="cls-6"> = </tspan><tspan y="144">grid.</tspan><tspan y="144" class="cls-7">predict</tspan><tspan y="144" class="cls-8">(</tspan><tspan y="144">x_test_scaled</tspan><tspan y="144" class="cls-8">)</tspan>
+        </text>
+    </g>
+</svg>

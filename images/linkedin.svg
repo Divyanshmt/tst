@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_932" width="40.536" height="40.536" data-name="Group 932" viewBox="0 0 40.536 40.536">
+    <defs>
+        <style>
+            .cls-2{fill:#fff}
+        </style>
+    </defs>
+    <path id="Path_4002" fill="#117bb8" d="M182.768 222.273a20.268 20.268 0 0 1-20.268-20.268 20.268 20.268 0 0 1 20.268-20.268 20.268 20.268 0 0 1 20.268 20.268 20.268 20.268 0 0 1-20.268 20.268z" data-name="Path 4002" transform="translate(-162.5 -181.737)"/>
+    <g id="Group_931" data-name="Group 931" transform="translate(10.674 8.974)">
+        <g id="Group_930" data-name="Group 930">
+            <path id="Rectangle_1574" d="M0 0H4.195V13.551H0z" class="cls-2" data-name="Rectangle 1574" transform="translate(.403 6.775)"/>
+            <path id="Path_4003" d="M183.868 202.618a2.5 2.5 0 1 0-2.48-2.5 2.491 2.491 0 0 0 2.48 2.5z" class="cls-2" data-name="Path 4003" transform="translate(-181.388 -197.617)"/>
+        </g>
+        <path id="Path_4004" d="M198.292 215.725c0-1.9.877-3.04 2.556-3.04 1.542 0 2.283 1.09 2.283 3.04v7.113h4.175v-8.58c0-3.629-2.058-5.385-4.931-5.385a4.725 4.725 0 0 0-4.084 2.239v-1.825h-4.024v13.551h4.024z" class="cls-2" data-name="Path 4004" transform="translate(-186.989 -202.512)"/>
+    </g>
+</svg>

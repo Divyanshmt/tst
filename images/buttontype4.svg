@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48.326" viewBox="0 0 220 48.326">
+    <defs>
+        <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff956f"/>
+            <stop offset="1" stop-color="#fc6c7c"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x2=".329" y1=".011" y2=".432" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f143ff"/>
+            <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1=".188" x2=".762" y1=".113" y2=".152" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#2880b8"/>
+            <stop offset="1" stop-color="#289cac" stop-opacity="0"/>
+        </linearGradient>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_260" width="220" height="48" class="cls-1" data-name="Rectangle 260" rx="24" transform="translate(-1128 -2207.773)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectangle_223" d="M0 0H900.122V334.8H0z" class="cls-1" data-name="Rectangle 223"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Rectangle_222" d="M0 0H900.122V615.6H0z" class="cls-1" data-name="Rectangle 222"/>
+        </clipPath>
+        <filter id="Ellipse_32" width="1166.341" height="1057.2" x="-225.61" y="-71.2" filterUnits="userSpaceOnUse">
+            <feOffset dx="-10" dy="-10"/>
+            <feGaussianBlur result="blur" stdDeviation="20"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-1{fill:none}.cls-3{fill:#fff;font-size:16px;font-family:Avenir-Book,Avenir}
+        </style>
+    </defs>
+    <g id="Group_881" data-name="Group 881" transform="translate(-317 -5563)">
+        <g id="Group_732" data-name="Group 732" transform="translate(33 4829.326)">
+            <rect id="Rectangle_206" width="220" height="48" fill="#023c60" data-name="Rectangle 206" rx="24" transform="translate(284 734)"/>
+            <text id="Contact_Support" class="cls-3" data-name="Contact Support" transform="translate(335.859 762.676)">
+                <tspan x="0" y="0">Contact Support</tspan>
+            </text>
+        </g>
+        <g id="Group_876" data-name="Group 876" transform="translate(-20 -11)">
+            <g id="Mask_Group_15" clip-path="url(#clip-path)" data-name="Mask Group 15" transform="translate(1465 7781.773)">
+                <g id="Mask_Group_8" clip-path="url(#clip-path-2)" data-name="Mask Group 8" transform="translate(-1439.219 -2402.174)">
+                    <path id="Rectangle_219" fill="url(#linear-gradient)" d="M0 0H900.122V615.6H0z" data-name="Rectangle 219" transform="translate(0 -45.6)"/>
+                    <path id="Rectangle_220" d="M0 0H900.122V615.6H0z" class="cls-1" data-name="Rectangle 220" transform="translate(0 -45.6)"/>
+                    <path id="Rectangle_221" fill="url(#linear-gradient-2)" d="M0 0H900.122V615.6H0z" data-name="Rectangle 221" transform="translate(0 -45.6)"/>
+                    <g id="Mask_Group_7" clip-path="url(#clip-path-3)" data-name="Mask Group 7" transform="translate(0 -45.6)">
+                        <g filter="url(#Ellipse_32)" transform="translate(311.22 240)">
+                            <ellipse id="Ellipse_32-2" cx="523.171" cy="468.6" fill="url(#linear-gradient-3)" data-name="Ellipse 32" rx="523.171" ry="468.6" transform="translate(-155.61 -1.2)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text id="Contact_Support-2" class="cls-3" data-name="Contact Support" transform="translate(388 5603)">
+                <tspan x="0" y="0">Contact Support</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

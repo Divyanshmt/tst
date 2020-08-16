@@ -1,0 +1,569 @@
+.header {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 50px;
+}
+
+.header_content_left>img {
+    width: 78px;
+}
+
+.header_content_center>a {
+    text-decoration: none;
+    color: #000000;
+    margin: 0px 20px;
+    font-size: 18px;
+}
+
+
+.landingSection {
+    background-image: url(../images/banners/pro.svg);
+    width: 100%;
+    height: 29vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+    padding: 100px;
+}
+
+
+.landingSection_content {
+    margin-left: 20%;
+}
+
+.jandhanBannerImage {}
+
+.section_left {
+    margin-top: 20px;
+}
+
+.section_left_landing {
+    margin-right: 30%;
+}
+
+
+.landing_section_detail_heading {
+    font-size: 36px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.landing_section_detail_heading--black {
+    color: black;
+}
+
+
+.section_detail_heading {
+    font-size: 36px;
+    padding-bottom: 45px;
+}
+
+.section_detail_heading_border_bottom {
+    background: rgb(254, 126, 119);
+    background: linear-gradient(90deg, rgba(254, 126, 119, 1) 62%, rgba(155, 136, 136, 1) 100%);
+    padding: 5px;
+    width: 120px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.section_right {
+    width: 35%;
+    padding-right: 9%;
+}
+
+.section_text_detail_container {
+    display: flex;
+}
+
+.section_text_detail_container_text_tick {
+    font-family: NunitoSans;
+    font-size: 16px;
+    color: #2569e3;
+    padding-right: 20px;
+    margin: 10px 0;
+
+}
+
+.section_text_detail_container_text {
+    font-family: NunitoSans;
+    font-size: 16px;
+    color: #666666;
+    margin: 10px 0;
+}
+
+.section_text_detail_container_text--white {
+    font-family: NunitoSans;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 10px 10px;
+}
+
+.buttonType3Container {
+    margin-top: 40px;
+}
+
+
+.section3 {
+    padding: 0 16px;
+    padding-top: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 84px;
+    background: rgba(255, 255, 255, 0.1);
+    background: -webkit-radial-gradient(right, rgba(255, 255, 255, 0.1), rgba(251, 254, 255, 1.0));
+    background: -moz-radial-gradient(right, rgba(255, 255, 255, 0.1), rgba(251, 254, 255, 1.0));
+    background: radial-gradient(to left, rgba(255, 255, 255, 0.1), rgba(251, 254, 255, 1.0));
+}
+
+.section4 {
+    margin-top: 113px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 84px;
+    background: rgba(255, 255, 255, 0.1);
+    background: -webkit-radial-gradient(right, rgba(255, 255, 255, 0.1), rgba(251, 254, 255, 1.0));
+    background: -moz-radial-gradient(right, rgba(255, 255, 255, 0.1), rgba(251, 254, 255, 1.0));
+    background: radial-gradient(to left, rgba(255, 255, 255, 0.1), rgba(251, 254, 255, 1.0));
+}
+
+#fii_image {
+    background-image: url(../images/blacknet.svg);
+    background-repeat: no-repeat;
+    background-position: 278% 36%;
+    background-size: 125%;
+    width: 74%;
+    padding-right: 100px;
+    padding-left: 185px;
+}
+
+.section4_width_adjust {
+    padding-left: 16%;
+    width: 29%;
+}
+
+#enterprise_image {
+    background-image: url(../images/blacknet.svg);
+    background-repeat: no-repeat;
+    background-position: -120% 36%;
+    background-size: 125%;
+    width: 68%;
+    padding-right: 324px;
+    padding-left: 14px;
+}
+
+#actyv_pro_image {
+    background-image: url(../images/blacknet.svg);
+    background-repeat: no-repeat;
+    background-position: 278% 66%;
+    background-size: 125%;
+    width: 84%;
+    padding-left: 49px;
+}
+
+.section4_right {
+    width: 48%;
+    padding-right: 11%;
+}
+
+#jandhan_image {
+    width: 125%;
+    background-image: url(../images/blacknet.svg);
+    background-repeat: no-repeat;
+    background-position: -165% 48%;
+}
+
+
+
+.section5 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #033C60;
+    padding: 10vh 0;
+
+}
+
+.section5_width_adjust {
+    width: 30%;
+    padding-left: 20%;
+}
+
+#apiEngin_image {
+    width: 500px;
+}
+
+.apiEnginTextColor {
+    color: white;
+}
+
+
+
+
+.section_detail_heading_border_bottom {
+    background: rgb(254, 126, 119);
+    background: linear-gradient(90deg, rgba(254, 126, 119, 1) 62%, rgba(155, 136, 136, 1) 100%);
+    padding: 5px;
+    width: 120px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.section_text_detail_container {}
+
+.section_text_detail_container_text {
+    color: #666666;
+}
+
+
+
+.apiEnginTextColor {
+    color: white;
+}
+
+.ourLeaderContainer {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ourLeaderHeading {
+    margin-top: 10px;
+    margin-bottom: -29px;
+}
+
+.leaderProfileCardContainer {
+    margin-top: 10px;
+    text-align: center;
+    padding: 0 12%;
+}
+
+.leaderCard {
+    display: inline-block;
+    padding: 0 50px;
+
+}
+
+.leaderName {
+    font-size: 24px;
+    color: #505050;
+    margin: 15px 0;
+}
+
+.more-prod_text {
+    font-size: 16px;
+    color: #666666;
+    margin: 15px 0;
+    line-height: 32px;
+}
+
+.blacknet {
+    height: 7vw;
+    background: url(../images/blacknet.svg) 24% 0%;
+    margin-top: 100px;
+}
+
+
+
+.footer {
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 80px;
+    padding-left: 400px;
+    background-color: #F7F7F7;
+}
+
+.footer_row {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.twoColumns {
+    display: flex;
+    flex-direction: row;
+}
+
+.twoColumns>p {
+    text-align: left;
+}
+
+.whoWeAre {
+    margin-left: 27%;
+}
+
+
+.footer_product_container,
+.whoWeAre {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: flex-start;
+}
+
+.havANyQues {
+    font-size: 34px;
+}
+
+.buttontype4 {
+    margin: 30px 0;
+}
+
+.footer_product_container_heading {
+    font-size: 14px;
+    color: #10253e;
+    text-transform: uppercase;
+    margin: 10px 0;
+    ;
+}
+
+.footer_products_link {
+    text-decoration: none;
+    color: #585858;
+    font-size: 14px;
+    text-transform: capitalize;
+    margin: 10px 0;
+}
+
+.footer_row_left_column {
+    flex: 2;
+}
+
+.footer_row_right_column {
+    margin-right: 20px;
+    flex: 3;
+}
+
+.sociaMediaIcon {
+    margin-right: 20px;
+}
+
+.logoWithColor {
+    margin-bottom: 30px
+}
+
+.companyName {
+    font-size: 16px;
+    color: #10253e;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.mail {
+    font-size: 16px;
+    color: #10253e;
+    margin-top: 20px;
+}
+
+.mail>span {
+    font-weight: bold;
+
+}
+
+.contactUs {
+    margin-bottom: 10px;
+}
+
+input {
+    display: block;
+    margin-top: 20px;
+    width: 90%;
+    background-color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 12px;
+
+}
+
+input ::placeholder {
+    color: #10253e;
+}
+
+textarea {
+    margin-top: 20px;
+    width: 90%;
+    border: none;
+    border-radius: 6px;
+    color: #10253e;
+    padding: 20px;
+}
+
+textarea::placeholder {
+    color: #10253e;
+}
+
+
+@media only screen and (max-width: 560px) {
+
+    .header {
+        flex-direction: column;
+    }
+
+    .header_content_center {
+        display: none;
+    }
+
+    .header_content_right {
+        display: none;
+    }
+
+    .leaderProfileCardContainer {
+        text-align: center;
+        padding: 0
+    }
+
+    .bannerLeftContent {
+        display: none;
+    }
+
+    .landingSection {
+        height: 48vh;
+    }
+
+    .section1 {
+        padding: 0;
+        padding-bottom: 100px;
+
+    }
+
+    .section1_right {
+        display: none;
+    }
+
+    .section1_left {
+        margin-top: 15vh;
+        margin-left: 5%;
+        padding: 0;
+        width: 80%;
+    }
+
+    .section1_left_header {
+        font-size: 28px;
+    }
+
+    .section1_section_left_content_Text {
+        font-size: 14px;
+    }
+
+    .section2 {
+        padding: 0px;
+        padding-top: 10px;
+    }
+
+    .section2>img {
+        width: 20%;
+    }
+
+    .section3 {
+        padding-top: 100px;
+        flex-direction: column-reverse;
+
+    }
+
+    #fii_image {
+        padding-left: 93px;
+        padding-right: 0;
+    }
+
+    .section_right {
+        width: 100%;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    .section_detail_heading_border_bottom {
+        margin: 0 35%;
+        margin-bottom: 20px;
+        margin-top: -5px;
+    }
+
+    .section4 {
+        display: inline-block;
+    }
+
+    .section4_right {
+        padding-right: 0;
+    }
+
+    .section4_width_adjust {
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .footer {
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    .section_text_detail_container_text {
+        width: 100%;
+    }
+
+    .twoColumns {
+        display: none;
+        width: 100%;
+    }
+
+    .footer_row {
+        display: block;
+    }
+
+    .footer_row_right_column {
+        margin: 80px 0;
+        text-align: center;
+    }
+
+    input,
+    textarea {
+        display: inline;
+        width: 70%;
+    }
+
+    .section4_right {
+        width: 100%;
+        text-align: center;
+    }
+
+    .section5 {
+        display: block;
+    }
+
+    .section5_width_adjust {
+        width: 100%;
+        padding: 0;
+        text-align: center;
+        margin-bottom: 80px;
+    }
+
+    .ourLeaderContainer {}
+
+    #apiEngin_image {
+        width: 95%;
+        padding: 5px 10px;
+    }
+
+    #jandhan_image {
+        width: 100%;
+    }
+
+    #enterprise_image {
+        padding-right: 31%;
+        padding-left: 0;
+    }
+}

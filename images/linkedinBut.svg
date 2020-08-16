@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="141" height="48" viewBox="0 0 141 48">
+    <defs>
+        <style>
+            .cls-1{fill:#117bb8}
+        </style>
+    </defs>
+    <g id="Group_836" data-name="Group 836" transform="translate(-410 -5081)">
+        <rect id="Rectangle_246" width="141" height="48" class="cls-1" data-name="Rectangle 246" rx="24" transform="translate(410 5081)"/>
+        <path id="Path_3889" fill="#fff" d="M179.5 215.737a17 17 0 0 1-17-17 17 17 0 0 1 17-17 17 17 0 0 1 17 17 17 17 0 0 1-17 17z" data-name="Path 3889" transform="translate(255.5 4906.263)"/>
+        <g id="Group_826" data-name="Group 826" transform="translate(428 5098)">
+            <g id="Group_825" data-name="Group 825">
+                <path id="Rectangle_245" d="M0 0H3.045V9.837H0z" class="cls-1" data-name="Rectangle 245" transform="translate(.293 4.918)"/>
+                <path id="Path_3890" d="M183.188 201.247a1.815 1.815 0 1 0-1.8-1.815 1.808 1.808 0 0 0 1.8 1.815z" class="cls-1" data-name="Path 3890" transform="translate(-181.388 -197.617)"/>
+            </g>
+            <path id="Path_3891" d="M197.189 213.847c0-1.382.637-2.207 1.855-2.207 1.119 0 1.657.791 1.657 2.207v5.164h3.031v-6.228c0-2.634-1.494-3.909-3.579-3.909a3.43 3.43 0 0 0-2.964 1.625v-1.325h-2.921v9.837h2.921z" class="cls-1" data-name="Path 3891" transform="translate(-188.984 -204.256)"/>
+        </g>
+        <text id="Connect" fill="#fff" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="16px" font-weight="600" letter-spacing="0.03em" transform="translate(463 5111)">
+            <tspan x="0" y="0">Connect</tspan>
+        </text>
+    </g>
+</svg>

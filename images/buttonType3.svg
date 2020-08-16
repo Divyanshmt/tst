@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="36" viewBox="0 0 162 36">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_260" width="162" height="36" class="cls-1" data-name="Rectangle 260" rx="18" transform="translate(-1128 -2207.773)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectangle_223" d="M0 0H662.817V251.1H0z" class="cls-1" data-name="Rectangle 223"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Rectangle_222" d="M0 0H662.817V461.7H0z" class="cls-1" data-name="Rectangle 222"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path id="Clip_20" d="M5.216 4.157a.417.417 0 0 1 0 .605L1.1 8.737a.66.66 0 0 1-.909 0 .606.606 0 0 1 0-.877l3.523-3.4L.188 1.059a.606.606 0 0 1 0-.877.66.66 0 0 1 .909 0z" class="cls-2" data-name="Clip 20"/>
+        </clipPath>
+        <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff956f"/>
+            <stop offset="1" stop-color="#fc6c7c"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x2=".329" y1=".011" y2=".432" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f143ff"/>
+            <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1=".188" x2=".762" y1=".113" y2=".152" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#2880b8"/>
+            <stop offset="1" stop-color="#289cac" stop-opacity="0"/>
+        </linearGradient>
+        <filter id="Ellipse_32" width="890.488" height="822.9" x="-184.585" y="-70.9" filterUnits="userSpaceOnUse">
+            <feOffset dx="-10" dy="-10"/>
+            <feGaussianBlur result="blur" stdDeviation="20"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_19977" data-name="Group 19977" transform="translate(-832 -1518)">
+        <rect id="Rectangle_55" width="162" height="36" fill="#5f62f6" data-name="Rectangle 55" rx="18" transform="translate(832 1518)"/>
+        <g id="Mask_Group_15" clip-path="url(#clip-path)" data-name="Mask Group 15" transform="translate(1960 3725.773)">
+            <g id="Mask_Group_8" clip-path="url(#clip-path-2)" data-name="Mask Group 8" transform="translate(-1357.171 -2353.573)">
+                <path id="Rectangle_219" fill="url(#linear-gradient)" d="M0 0H662.817V461.7H0z" data-name="Rectangle 219" transform="translate(0 -34.2)"/>
+                <path id="Rectangle_220" d="M0 0H662.817V461.7H0z" class="cls-1" data-name="Rectangle 220" transform="translate(0 -34.2)"/>
+                <path id="Rectangle_221" fill="url(#linear-gradient-2)" d="M0 0H662.817V461.7H0z" data-name="Rectangle 221" transform="translate(0 -34.2)"/>
+                <g id="Mask_Group_7" clip-path="url(#clip-path-3)" data-name="Mask Group 7" transform="translate(0 -34.2)">
+                    <g filter="url(#Ellipse_32)" transform="translate(229.17 180)">
+                        <ellipse id="Ellipse_32-2" cx="385.244" cy="351.45" fill="url(#linear-gradient-3)" data-name="Ellipse 32" rx="385.244" ry="351.45" transform="translate(-114.59 -.9)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text id="Learn_more" fill="#fff" data-name="Learn more" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="16px" font-weight="600" letter-spacing="0.01em" transform="translate(864 1541)">
+            <tspan x="0" y="0">Learn more</tspan>
+        </text>
+        <g id="back" transform="translate(957.861 1532)">
+            <path id="Clip_20-2" d="M5.216 4.157a.417.417 0 0 1 0 .605L1.1 8.737a.66.66 0 0 1-.909 0 .606.606 0 0 1 0-.877l3.523-3.4L.188 1.059a.606.606 0 0 1 0-.877.66.66 0 0 1 .909 0z" class="cls-2" data-name="Clip 20"/>
+            <g id="back-2" clip-path="url(#clip-path-4)" data-name="back">
+                <path id="Fill_19" d="M9.8 13.378H0V0h9.8z" class="cls-2" data-name="Fill 19" transform="translate(-2.227 -2.23)"/>
+            </g>
+        </g>
+    </g>
+</svg>
