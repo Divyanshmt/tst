@@ -29,6 +29,70 @@
     padding-bottom: 40px;
 }
 
+.header_content_center>a,
+.header_content_center>div {
+    text-decoration: none;
+    color: #000;
+    margin: 0px 20px;
+    font-size: 18px;
+}
+
+.header_content_center>div {
+    cursor: pointer;
+    display: inline;
+    text-decoration: none;
+    color: #000;
+    margin: 0px 20px;
+    font-size: 18px;
+}
+
+.sub_menu {
+    visibility: hidden;
+    z-index: 1;
+    position: absolute;
+    background-color: #f7f9fc;
+    border-radius: 8px;
+    top: 50px;
+}
+
+.sub_menu:hover {
+    visibility: visible;
+    z-index: 1;
+    position: absolute;
+    background-color: #f7f9fc;
+    border-radius: 8px;
+    top: 60px;
+}
+
+
+.havingSubOptions:hover>.sub_menu {
+    visibility: visible;
+}
+
+.sub_menu_option {
+    display: flex;
+    padding: 10px 40px 10px 20px;
+    text-decoration: none;
+}
+
+.sub_menu_option:hover {
+    background-color: rgb(197, 195, 195);
+}
+
+.sub_menu_option_Detail {
+    margin-left: 15px;
+}
+
+.sub_menu_option_name {
+    color: #003455;
+    font-size: 14px;
+}
+
+.sub_menu_option_categ {
+    color: #535353;
+    font-size: 12px;
+}
+
 
 .landingSection_content {
     margin-top: 150px;
